@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Castro</h1>
 - 🌱 I’m currently learning **mobile development**
 
-Linkedin
 
 <a href="https://www.linkedin.com/in/lucas-castro-a338b8184/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" >
