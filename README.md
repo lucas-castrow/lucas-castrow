@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lucas Castro</h1>
-- 🌱 I’m currently learning **mobile development**
 
 
 -
